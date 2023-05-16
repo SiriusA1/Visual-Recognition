@@ -1,0 +1,39 @@
+coast_test1.jpg has been assigned to coast_train3.jpg.
+coast_test2.jpg has been assigned to coast_train2.jpg.
+coast_test3.jpg has been assigned to coast_train1.jpg.
+coast_test4.jpg has been assigned to coast_train1.jpg.
+forest_test1.jpg has been assigned to forest_train3.jpg.
+forest_test2.jpg has been assigned to forest_train2.jpg.
+forest_test3.jpg has been assigned to forest_train4.jpg.
+forest_test4.jpg has been assigned to forest_train2.jpg.
+insidecity_test1.jpg has been assigned to forest_train4.jpg.
+insidecity_test2.jpg has been assigned to forest_train1.jpg.
+insidecity_test3.jpg has been assigned to insidecity_train3.jpg.
+insidecity_test4.jpg has been assigned to insidecity_train4.jpg.
+Test with 8 bins had 2 incorrect assignments for an accuracy of 83.33 percent.
+coast_test1.jpg has been assigned to coast_train3.jpg.
+coast_test2.jpg has been assigned to coast_train3.jpg.
+coast_test3.jpg has been assigned to coast_train3.jpg.
+coast_test4.jpg has been assigned to coast_train2.jpg.
+forest_test1.jpg has been assigned to forest_train3.jpg.
+forest_test2.jpg has been assigned to forest_train2.jpg.
+forest_test3.jpg has been assigned to forest_train2.jpg.
+forest_test4.jpg has been assigned to forest_train2.jpg.
+insidecity_test1.jpg has been assigned to forest_train4.jpg.
+insidecity_test2.jpg has been assigned to forest_train1.jpg.
+insidecity_test3.jpg has been assigned to forest_train2.jpg.
+insidecity_test4.jpg has been assigned to insidecity_train4.jpg.
+Test with 16 bins had 3 incorrect assignments for an accuracy of 75.00 percent.
+coast_test1.jpg has been assigned to coast_train2.jpg.
+coast_test2.jpg has been assigned to coast_train2.jpg.
+coast_test3.jpg has been assigned to coast_train1.jpg.
+coast_test4.jpg has been assigned to coast_train2.jpg.
+forest_test1.jpg has been assigned to forest_train3.jpg.
+forest_test2.jpg has been assigned to forest_train2.jpg.
+forest_test3.jpg has been assigned to forest_train2.jpg.
+forest_test4.jpg has been assigned to forest_train2.jpg.
+insidecity_test1.jpg has been assigned to forest_train4.jpg.
+insidecity_test2.jpg has been assigned to insidecity_train3.jpg.
+insidecity_test3.jpg has been assigned to insidecity_train3.jpg.
+insidecity_test4.jpg has been assigned to coast_train1.jpg.
+Test with 4 bins had 2 incorrect assignments for an accuracy of 83.33 percent.
